@@ -1,0 +1,222 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Login">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Login">
+			<param name="Local" value="pg_0001.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MDI">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="MDI">
+			<param name="Local" value="pg_0002.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Capacitacion">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Ingreso_Cursos ">
+			<param name="Local" value="pg_0003.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Cursos_(Consulta_Informaci&oacute;n_Empleado)">
+			<param name="Local" value="pg_0004.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Cursos_(Pesta&ntilde;a_Ingresar_Curso) ">
+			<param name="Local" value="pg_0005.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Cursos_(Pesta&ntilde;a_Editar_Curso) ">
+			<param name="Local" value="pg_0006.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Cursos_(Pesta&ntilde;a_Eliminar_Curso) ">
+			<param name="Local" value="pg_0007.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Capacitaciones_(Pesta&ntilde;a_Asignaci&oacute;n)">
+			<param name="Local" value="pg_0008.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Capacitaciones_(Pesta&ntilde;a_Resultados) ">
+			<param name="Local" value="pg_0009.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Mantenimientos_Capacitaci&oacute;n_(Pesta&ntilde;a_Editar_Capacitaci&oacute;n) ">
+			<param name="Local" value="pg_0010.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Mantenimientos_Capacitaci&oacute;n_(Pesta&ntilde;a_Eliminar_Capacitaci&oacute;n) ">
+			<param name="Local" value="pg_0011.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Desarrollo">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Mantenimientos_Puestos ">
+			<param name="Local" value="pg_0012.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Mantenimientos_Departamentos ">
+			<param name="Local" value="pg_0013.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Mantenimientos_Competencias ">
+			<param name="Local" value="pg_0014.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Mantenimientos_Faltas ">
+			<param name="Local" value="pg_0015.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Ingreso_Competencias ">
+			<param name="Local" value="pg_0016.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Nomina">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_N&oacute;mina_(Pesta&ntilde;a_Planilla) ">
+			<param name="Local" value="pg_0017.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_N&oacute;mina_(Pesta&ntilde;a_Deducciones/Percepciones) ">
+			<param name="Local" value="pg_0018.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_N&oacute;mina_(Pesta&ntilde;a_Horas/Dias) ">
+			<param name="Local" value="pg_0019.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_N&oacute;mina_(Pesta&ntilde;a_Gesti&oacute;n_Planilla)">
+			<param name="Local" value="pg_0020.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_percepciones_deducciones_(Pesta&ntilde;a_Ingreso) ">
+			<param name="Local" value="pg_0021.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_percepciones_deducciones_(Pesta&ntilde;a_Modificar) ">
+			<param name="Local" value="pg_0022.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_percepciones_deducciones_(Pesta&ntilde;a_Eliminar) ">
+			<param name="Local" value="pg_0023.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Nomina_Empleados_(Pesta&ntilde;a_Ingresar) ">
+			<param name="Local" value="pg_0024.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Nomina_Empleados_(Pesta&ntilde;a_Buscar) ">
+			<param name="Local" value="pg_0025.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Nomina_Empleados_(Pesta&ntilde;a_Eliminar) ">
+			<param name="Local" value="pg_0026.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Control_Horas_D&iacute;as_Laborados_(Pesta&ntilde;a_Ingreso) ">
+			<param name="Local" value="pg_0027.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Control_Horas_D&iacute;as_Laborados_(Pesta&ntilde;a_Buscar/Modificar) ">
+			<param name="Local" value="pg_0028.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Reclutamiento">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Ingreso/Modificaci&oacute;n_Reclutas_(Ingreso) ">
+			<param name="Local" value="pg_0029.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Ingreso/Modificaci&oacute;n_Reclutas_(B&uacute;squeda) ">
+			<param name="Local" value="pg_0030.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Ingreso/Modificaci&oacute;n_Reclutas_(Modificaci&oacute;n) ">
+			<param name="Local" value="pg_0031.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Ingreso_Entrevista_(Pesta&ntilde;a_Datos_Recluta) ">
+			<param name="Local" value="pg_0032.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana Ingreso_Entrevista_(Pesta&ntilde;a_Datos_Entrevista) ">
+			<param name="Local" value="pg_0033.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Contrataci&oacute;n_Empleados_(B&uacute;squeda) ">
+			<param name="Local" value="pg_0034.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Contrataci&oacute;n_Empleados_(Contrataci&oacute;n) ">
+			<param name="Local" value="pg_0035.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Modificar_Empleado_(B&uacute;squeda) ">
+			<param name="Local" value="pg_0036.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Modificar_Empleado_(Modificaci&oacute;n) ">
+			<param name="Local" value="pg_0037.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Ascensos_(Buscar) ">
+			<param name="Local" value="pg_0038.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Ascensos_(Modificar/Ascender) ">
+			<param name="Local" value="pg_0039.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Bajas_Empleados_(Pesta&ntilde;a_Datos_Generales) ">
+			<param name="Local" value="pg_0040.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventana_Bajas_Empleados_(Pesta&ntilde;a_Despidos/Renuncias) ">
+			<param name="Local" value="pg_0041.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Tablas_Con_Filtrados">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ventanas_Tablas_Datos">
+			<param name="Local" value="pg_0042.htm">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

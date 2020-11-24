@@ -1,0 +1,58 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Ayudas_Modulo_HRM.chm
+Contents file=AyudasHRM.hhc
+Default Window=Ayuda_Modulo_HRM
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+Ayuda_Modulo_HRM="Ayudas para el software Modulo HRM","AyudasHRM.hhc",,"pg_0002.htm","pg_0002.htm","pg_0003.htm","Capacitacion","pg_0042.htm","Tablas_Con_Datos",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+pg_0001.htm
+pg_0002.htm
+pg_0003.htm
+pg_0004.htm
+pg_0005.htm
+pg_0006.htm
+pg_0007.htm
+pg_0008.htm
+pg_0009.htm
+pg_0010.htm
+pg_0011.htm
+pg_0012.htm
+pg_0013.htm
+pg_0014.htm
+pg_0015.htm
+pg_0016.htm
+pg_0017.htm
+pg_0018.htm
+pg_0019.htm
+pg_0020.htm
+pg_0021.htm
+pg_0022.htm
+pg_0023.htm
+pg_0024.htm
+pg_0025.htm
+pg_0026.htm
+pg_0027.htm
+pg_0028.htm
+pg_0029.htm
+pg_0030.htm
+pg_0031.htm
+pg_0032.htm
+pg_0033.htm
+pg_0034.htm
+pg_0035.htm
+pg_0036.htm
+pg_0037.htm
+pg_0038.htm
+pg_0039.htm
+pg_0040.htm
+pg_0041.htm
+pg_0042.htm
+
+[INFOTYPES]
+
