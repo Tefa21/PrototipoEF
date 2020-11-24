@@ -46,6 +46,8 @@
             this.tsmiAyuda = new System.Windows.Forms.ToolStripMenuItem();
             this.txtUsuario = new System.Windows.Forms.TextBox();
             this.pnlContenedor = new System.Windows.Forms.Panel();
+            this.TsmiCambioDeContraseñaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.bitácoraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mspMDI.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -151,6 +153,9 @@
             // 
             // tsmiHerramientas
             // 
+            this.tsmiHerramientas.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.TsmiCambioDeContraseñaToolStripMenuItem,
+            this.bitácoraToolStripMenuItem});
             this.tsmiHerramientas.ForeColor = System.Drawing.SystemColors.ControlText;
             this.tsmiHerramientas.Name = "tsmiHerramientas";
             this.tsmiHerramientas.Size = new System.Drawing.Size(94, 20);
@@ -206,6 +211,19 @@
             this.pnlContenedor.Size = new System.Drawing.Size(731, 406);
             this.pnlContenedor.TabIndex = 1;
             // 
+            // TsmiCambioDeContraseñaToolStripMenuItem
+            // 
+            this.TsmiCambioDeContraseñaToolStripMenuItem.Name = "TsmiCambioDeContraseñaToolStripMenuItem";
+            this.TsmiCambioDeContraseñaToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
+            this.TsmiCambioDeContraseñaToolStripMenuItem.Text = "Cambio de Contraseña";
+            this.TsmiCambioDeContraseñaToolStripMenuItem.Click += new System.EventHandler(this.TsmiCambioDeContraseñaToolStripMenuItem_Click);
+            // 
+            // bitácoraToolStripMenuItem
+            // 
+            this.bitácoraToolStripMenuItem.Name = "bitácoraToolStripMenuItem";
+            this.bitácoraToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
+            this.bitácoraToolStripMenuItem.Text = "Bitácora";
+            // 
             // frmMDI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -250,5 +268,7 @@
         private System.Windows.Forms.ToolStripMenuItem tsmiIngresarFaltaMantenimientos;
         private System.Windows.Forms.TextBox txtUsuario;
         private System.Windows.Forms.Panel pnlContenedor;
+        private System.Windows.Forms.ToolStripMenuItem TsmiCambioDeContraseñaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem bitácoraToolStripMenuItem;
     }
 }
