@@ -65,7 +65,46 @@ namespace Capa_Vista.Vista_Mantenimientos.Faltas
 
         private void NavegadorFaltas_Load(object sender, EventArgs e)
         {
-            
+            List<string> CamposTabla = new List<string>();
+            List<Control> lista = new List<Control>();
+            //el numero de aplicacion se debe cambiar por el numero asignado en la base de datos 
+            NavegadorFaltas.aplicacion = 1;
+            //banco se debe cambiar por la tabla a la que se quiere hacer el mantenimiento
+            NavegadorFaltas.tbl = "falta";
+            //estado_banco se debe cambiar por el estado de la tabla a la que se desea hacer mantenimiento
+            NavegadorFaltas.campoEstado = "estado_falta";
+            NavegadorFaltas.MDIformulario = FormularioPadre;
+            foreach (Control C in this.Controls)
+            {
+                if ((C.Tag != null) && (!C.Tag.ToString().Equals("")))
+                {
+                    if (C is TextBox)
+                    {
+                        lista.Add(C);
+
+                    }
+                    else if (C is ComboBox)
+                    {
+                        lista.Add(C);
+
+                    }
+                    else if (C is DateTimePicker)
+                    {
+                        lista.Add(C);
+                    }
+                }
+            }
+            NavegadorFaltas.control = lista;
+            NavegadorFaltas.formulario = this;
+            //el dataGridView1 se debe cambiar por el que se tiene en el formulario
+            NavegadorFaltas.DatosActualizar = dgvFaltas;
+            NavegadorFaltas.procActualizarData();
+            NavegadorFaltas.procCargar();
+            //en la variable ayuda ruta debe colocar la carpeta y el archivo.chm de su proyecto de ayuda
+            NavegadorFaltas.ayudaRuta = "Ayudas_HRM/Ayudas_Modulo_HRM.chm";
+            //en ruta debe colocar la pagina html que quiere que se muestre cuendo se presione el boton ayuda
+            NavegadorFaltas.ruta = "pg_0015.htm";
+
         }
     }
 }
