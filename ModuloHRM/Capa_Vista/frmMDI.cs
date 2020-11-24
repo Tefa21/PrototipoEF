@@ -14,6 +14,8 @@ namespace Capa_Vista
 {
     public partial class frmMDI : Form
     {
+        clsFuncionesSeguridad Seguridad = new clsFuncionesSeguridad();
+        clsVistaBitacora bit = new clsVistaBitacora();
         string ayudas;
         public frmMDI()
         {
@@ -109,8 +111,10 @@ namespace Capa_Vista
             this.KeyPreview = true;
             this.KeyDown += new KeyEventHandler(frmMDI_KeyDown);
             frmLogin login = new frmLogin();
-            login.ShowDialog();
-            txtUsuario.Text = login.usuario();
+            if(login.ShowDialog() == DialogResult.OK)
+            {
+                txtUsuario.Text = login.usuario();
+            }
         }
 
         private void tsmiAyuda_Click(object sender, EventArgs e)
@@ -206,5 +210,11 @@ namespace Capa_Vista
 
         }
 
+        private void TsmiCambioDeContraseñaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            /*frmCambioContraseña cambioContraseña = new frmCambioContraseña(txtUsuario.Text);
+            cambioContraseña.MdiParent = this;
+            cambioContraseña.Show();*/
+        }
     }
 }
