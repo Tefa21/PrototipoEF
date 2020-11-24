@@ -40,14 +40,14 @@
             this.tsmiDesarrolloProceso = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiIngresarCompetenciasProceso = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiHerramientas = new System.Windows.Forms.ToolStripMenuItem();
+            this.TsmiCambioDeContraseñaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.bitácoraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiReportes = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiDesarrolloReporte = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiCompetenciasReporte = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiAyuda = new System.Windows.Forms.ToolStripMenuItem();
             this.txtUsuario = new System.Windows.Forms.TextBox();
             this.pnlContenedor = new System.Windows.Forms.Panel();
-            this.TsmiCambioDeContraseñaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.bitácoraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mspMDI.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -161,6 +161,19 @@
             this.tsmiHerramientas.Size = new System.Drawing.Size(94, 20);
             this.tsmiHerramientas.Text = "Herramientas";
             // 
+            // TsmiCambioDeContraseñaToolStripMenuItem
+            // 
+            this.TsmiCambioDeContraseñaToolStripMenuItem.Name = "TsmiCambioDeContraseñaToolStripMenuItem";
+            this.TsmiCambioDeContraseñaToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
+            this.TsmiCambioDeContraseñaToolStripMenuItem.Text = "Cambio de Contraseña";
+            this.TsmiCambioDeContraseñaToolStripMenuItem.Click += new System.EventHandler(this.TsmiCambioDeContraseñaToolStripMenuItem_Click);
+            // 
+            // bitácoraToolStripMenuItem
+            // 
+            this.bitácoraToolStripMenuItem.Name = "bitácoraToolStripMenuItem";
+            this.bitácoraToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
+            this.bitácoraToolStripMenuItem.Text = "Bitácora";
+            // 
             // tsmiReportes
             // 
             this.tsmiReportes.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -211,19 +224,6 @@
             this.pnlContenedor.Size = new System.Drawing.Size(731, 406);
             this.pnlContenedor.TabIndex = 1;
             // 
-            // TsmiCambioDeContraseñaToolStripMenuItem
-            // 
-            this.TsmiCambioDeContraseñaToolStripMenuItem.Name = "TsmiCambioDeContraseñaToolStripMenuItem";
-            this.TsmiCambioDeContraseñaToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
-            this.TsmiCambioDeContraseñaToolStripMenuItem.Text = "Cambio de Contraseña";
-            this.TsmiCambioDeContraseñaToolStripMenuItem.Click += new System.EventHandler(this.TsmiCambioDeContraseñaToolStripMenuItem_Click);
-            // 
-            // bitácoraToolStripMenuItem
-            // 
-            this.bitácoraToolStripMenuItem.Name = "bitácoraToolStripMenuItem";
-            this.bitácoraToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
-            this.bitácoraToolStripMenuItem.Text = "Bitácora";
-            // 
             // frmMDI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -238,7 +238,7 @@
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmMDI";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "301 - Módulo de Recursos Humanos";
+            this.Text = "Sthefany Johana Campos Hernandez - 0901-17-2452";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.frmMDI_Load);
             this.mspMDI.ResumeLayout(false);
